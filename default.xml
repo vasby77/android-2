@@ -27,7 +27,7 @@
   <project path="device/samsung/logan" name="BCM-Samsung/android_device_samsung_logan" remote="github" revision="cm-11.0" />
   <project path="device/samsung/bcm-common" name="BCM-Samsung/android_device_samsung_bcm-common" remote="github" revision="cm-11.0" />
   <project path="vendor/samsung/bcm-common" name="BCM-Samsung/android_vendor_samsung_bcm-common" remote="github" revision="cm-11.0" />
-  <project path="kernel/samsung/bcm" name="BCM-Samsung/android_kernel_samsung_bcm2" remote="github" revision="cm-11.0" />
+  <project path="kernel/samsung/bcm" name="BCM-Samsung/android_kernel_samsung_bcm" remote="github" revision="cm-11.0" />
   
   <project path="packages/apps/SamsungServiceMode" name="CyanogenMod/android_packages_apps_SamsungServiceMode" remote="github" revision="cm-11.0" />
   <project path="hardware/samsung" name="CyanogenMod/android_hardware_samsung" remote="github" revision="cm-11.0" />
