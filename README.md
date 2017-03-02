@@ -1,4 +1,4 @@
-CyanogenMod
+LineageOS
 ===========
 
 Getting Started (-jКоличество потоков)
